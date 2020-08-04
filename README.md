@@ -42,6 +42,11 @@
 
 ---
 
+### 📜 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
 [website]: https://instagram.com/sree_vatsa_sistla
 [youtube]: https://instagram.com/sree_vatsa_sistla
