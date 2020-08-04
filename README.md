@@ -45,9 +45,8 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [
-How to Scroll to Top using Button.
+How to Scroll to Top using Button. 
 ](https://dev.to/iblackpanther/how-to-scroll-back-to-top-button-19a0)
 <!-- BLOG-POST-LIST:END -->
 
