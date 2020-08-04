@@ -7,7 +7,7 @@
 - 💬 Ask me anything related to JavaScript/Node.JS/React.js
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play games and reading defence blogs
-- 📧 Reach me through my mail--sistlasreevatsa@gmail.com
+- 📧 Reach me through my mail -- sistlasreevatsa@gmail.com
 - 📞 +91 7386759665
 - 📍 Hyderabad,Telangana,India.
 
@@ -33,8 +33,9 @@
 <br />
 <br />
 
-[website]: https://
+<!-- [website]: https://
 [twitter]: https://
-[youtube]: https://
+[youtube]: https:// -->
+
 [instagram]: https://instagram.com/sree_vatsa_sistla
 [linkedin]: https://www.linkedin.com/in/sree-vatsa-sistla-5613b1192
