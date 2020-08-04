@@ -1,4 +1,4 @@
-### Hi there, I'm Sree Vatsa Sistla - aka [I-BLACKPANTHER][website] 👋
+### Hi there, I'm Sree Vatsa Sistla - aka I-BLACKPANTHER 👋
 
 ## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
 
@@ -29,10 +29,6 @@
 
 <br />
 <br />
-
-<!-- [website]: https://
-[twitter]: https://
-[youtube]: https:// -->
 
 [instagram]: https://instagram.com/sree_vatsa_sistla
 [linkedin]: https://www.linkedin.com/in/sree-vatsa-sistla-5613b1192
