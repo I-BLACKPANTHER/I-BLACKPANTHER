@@ -47,6 +47,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align='left' alt="I-BLACKPANTHER's Github Stats" src="https://github-readme-stats.vercel.app/api?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
+
 [link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
 [website]: https://instagram.com/sree_vatsa_sistla
 [youtube]: https://instagram.com/sree_vatsa_sistla
