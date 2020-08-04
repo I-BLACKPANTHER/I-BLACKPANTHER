@@ -57,7 +57,7 @@ How to Scroll to Top using Button.
 
 ---
 
-<img align='left' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
+<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
 
 [link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
 [website]: https://instagram.com/sree_vatsa_sistla
