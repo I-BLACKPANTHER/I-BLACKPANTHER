@@ -45,14 +45,19 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [
-How to Scroll to Top using Button. 
+How to Scroll to Top using Button.
 ](https://dev.to/iblackpanther/how-to-scroll-back-to-top-button-19a0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align='left' alt="I-BLACKPANTHER's Github Stats" src="https://github-readme-stats.vercel.app/api?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
+<img align='left' alt="I-BLACKPANTHER's Github Stats" src="https://github-readme-stats.vercel.app/api?username=I-BLACKPANTHER&hide=contribs,prs&count_private=true&show_icons=true&hide_border=true" />
+
+---
+
+<img align='left' alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
 
 [link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
 [website]: https://instagram.com/sree_vatsa_sistla
