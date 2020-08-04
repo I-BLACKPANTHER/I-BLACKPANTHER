@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -10,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: I-BLACKPANTHER/blog-post-workflow@master
+      - uses: gautamkrishnara/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/I-BLACKPANTHER'
+          feed_list: 'https://dev.to/iblackpanther'

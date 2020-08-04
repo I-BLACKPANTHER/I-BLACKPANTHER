@@ -3,7 +3,7 @@
 ## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
 
 - 🌱 I’m currently learning Node.Js and React.Js
-- 💯 I’m looking for a good oppurtunity to show up my Skills.
+- 💯 I’m looking for a good opportunity to show up my Skills.
 - 💬 Ask me anything related to JavaScript/Node.JS/React.js
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play games and reading defence blogs
