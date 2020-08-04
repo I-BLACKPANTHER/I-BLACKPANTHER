@@ -45,6 +45,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How TO - Scroll Back To Top Button](https://dev.to/iblackpanther/how-to-scroll-back-to-top-button-19a0)
 <!-- BLOG-POST-LIST:END -->
 
 [link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
