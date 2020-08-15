@@ -25,18 +25,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
-[<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][link]
-[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][link]
-[<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][link]
-[<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][link]
-[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][link]
-[<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][link]
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][link]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][link]
+
+[<img align="left" alt="html5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />][link]
+[<img align="left" alt="css3" width="26px" src="https:https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />][link]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" />][link]
+[<img align="left" alt="JavaScript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />][link]
+[<img align="left" alt="Sass" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />][link]
+[<img align="left" alt="React" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />][link]
+[<img align="left" alt="Angular" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" />][link]
+[<img align="left" alt="node.js" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />][link]
+[<img align="left" alt="mysql" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />][link]
+[<img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />][link]
+[<img align="left" alt="git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" />][link]
+[<img align="left" alt="github" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" />][link]
+
 
 <br />
 
