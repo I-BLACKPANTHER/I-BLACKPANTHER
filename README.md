@@ -49,6 +49,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start & Stop Button using JS](https://dev.to/iblackpanther/start-stop-button-using-js-3p2e)
 - [How to Scroll to Top using Button.](https://dev.to/iblackpanther/how-to-scroll-back-to-top-button-19a0)
 <!-- BLOG-POST-LIST:END -->
 
