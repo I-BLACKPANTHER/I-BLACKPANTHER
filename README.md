@@ -2,9 +2,9 @@
 
 ## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
 
-- 🌱 I’m currently learning Node.Js and React.Js
+- 🌱 I’m currently learning Node.Js and Angular.
 - 💯 I’m looking for a good opportunity to show up my Skills.
-- 💬 Ask me anything related to JavaScript/Angualr.js/React.js
+- 💬 Ask me anything related to JavaScript/TypeScript/Angualar/React.js
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play games and reading defence blogs
 - 📧 Reach me through my mail -- sistlasreevatsa@gmail.com
