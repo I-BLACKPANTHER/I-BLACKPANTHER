@@ -31,6 +31,7 @@
 [<img align="left" alt="css3" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />][link]
 [<img align="left" alt="bootstrap" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][link]
 [<img align="left" alt="JavaScript" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />][link]
+[<img align="left" alt="TypeScript" width="40px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />][link]
 [<img align="left" alt="JQuery" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" />][link]
 [<img align="left" alt="Sass" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />][link]
 [<img align="left" alt="React" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />][link]
