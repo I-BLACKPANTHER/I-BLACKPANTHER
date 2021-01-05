@@ -27,7 +27,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="html5" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />][link]
+[<img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />][link]
 [<img align="left" alt="css3" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />][link]
 [<img align="left" alt="bootstrap" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][link]
 [<img align="left" alt="JavaScript" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />][link]
