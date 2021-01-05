@@ -27,20 +27,17 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />][link]
-[<img align="left" alt="css3" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />][link]
-[<img align="left" alt="bootstrap" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" />][link]
-[<img align="left" alt="JavaScript" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />][link]
-[<img align="left" alt="TypeScript" width="40px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />][link]
-[<img align="left" alt="JQuery" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" />][link]
-[<img align="left" alt="Sass" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />][link]
-[<img align="left" alt="React" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />][link]
-[<img align="left" alt="Angular" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />][link]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />][link]
-[<img align="left" alt="IntelliJ" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" />][link]
-[<img align="left" alt="mysql" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />][link]
-[<img align="left" alt="mongodb" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />][link]
-[<img align="left" alt="github" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" />][link]
+[<img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />][link]
+[<img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" />][link]
+[<img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" />][link]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" />][link]
+[<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />][link]
+[<img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/jquery/jquery-original-wordmark.svg" />][link]
+[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/sass/sass-original.svg" />][link]
+[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/angularjs/angularjs-original.svg" />][link]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/visualstudio/visualstudio-plain.svg" />][link]
+[<img align="left" alt="IntelliJ" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/intellij/intellij-original.svg" />][link]
+[<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/github/github-original.svg" />][link]
 
 
 <br />
