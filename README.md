@@ -2,7 +2,7 @@
 
 ## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
 
-- 🌱 I’m currently learning Node.Js and Angular.
+- 🌱 I’m currently learning Node.Js and MongoDB
 - 💯 I’m looking for a good opportunity to show up my Skills.
 - 💬 Ask me anything related to JavaScript/TypeScript/Angualar/React.js
 - 🥅 2020 Goals: Contribute more to Open Source projects.
